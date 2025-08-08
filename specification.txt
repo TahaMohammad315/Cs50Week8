@@ -1,0 +1,29 @@
+# html tags
+
+h1
+div
+ul
+li
+a
+button
+h3
+p
+nav
+script
+
+# css selectors 
+
+.container
+body
+h1
+p
+container a 
+
+# css property 
+
+width
+margin
+padding
+background-color
+font-weight
+
